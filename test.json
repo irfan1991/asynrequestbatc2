@@ -1,0 +1,40 @@
+{
+    "error" : false,
+    "message"  : "success",
+    "data" : [
+        {
+            "id" : 1,
+            "title" : "Ganteng - Ganteng Mas Davva",
+            "author" :"Davva"
+
+        },
+
+        {
+            "id" : 2,
+            "title" : "Ada apa dengan Fadil",
+            "author" :"Fadil"
+
+        },
+
+        {
+            "id" : 3,
+            "title" : "Abdul Terlalu Tampan",
+            "author" :"Abdul"
+
+        },
+
+        {
+            "id" : 4,
+            "title" : "Cinta Fitri Episode 500",
+            "author" :"Fitri"
+
+        },
+
+        {
+            "id" : 5,
+            "title" : "Habibi 1991",
+            "author" :"Habibi"
+
+        }
+    ]
+}
